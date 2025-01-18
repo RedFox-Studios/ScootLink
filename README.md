@@ -18,5 +18,4 @@ Chceme, aby ScootLink bol čo najlepší. Ak máte nápady na vylepšenie aplik�
 ScootLink je licencovaný pod [GPL]. Pre viac informácií si pozrite súbor [LICENSE](LICENSE).
 
 
-Made by Butwm. check https://arctik
-app/
+Made by Butwm. check https://arctik.app/
